@@ -2,7 +2,7 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunhwane&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yunhwane&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yunhwane&theme=dark)](https://github.com/yunhwane/github-readme-activity-graph)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yunhwane&theme=tokyonight)](https://git.io/streak-stats)
 
