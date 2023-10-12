@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=yunhwane&fontSize=90)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunhwane&hide_progress=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhwane&show_icons=true&theme=dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhwane)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yunhwane/yunhwane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
