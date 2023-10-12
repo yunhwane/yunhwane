@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=yunhwane&fontSize=90)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhwane&show_icons=true&theme=dark)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={yunhwane}&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=yunhwane&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunhwane&hide_progress=true)
 
 
