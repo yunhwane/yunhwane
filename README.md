@@ -1,7 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=yunhwane&fontSize=90)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhwane&show_icons=true&theme=dark)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=yunhwane&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunhwane&hide_progress=true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunhwane&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yunhwane&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yunhwane&theme=tokyonight)](https://git.io/streak-stats)
+
 
 
 <!--
