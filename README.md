@@ -5,7 +5,7 @@
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <a href="https://github.com/yunhwane">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=620&lines=Backend+Engineer+who+loves+the+JVM+%E2%98%95;Java+%7C+Kotlin+%7C+Spring+%7C+TypeScript;Contributing+to+Keycloak%2C+Trino%2C+Elasticsearch;Building+distributed+systems+%26+AI+tooling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=620&lines=Backend+Engineer+who+loves+the+JVM+%E2%98%95;Java+%7C+Kotlin+%7C+Spring+%7C+TypeScript;Contributing+to+Keycloak%2C+Gravitino%2C+Valkey;Building+distributed+systems+%26+AI+tooling" alt="Typing SVG" />
 </a>
 
 <!-- ====================== STATUS BADGES ====================== -->
@@ -35,7 +35,7 @@ val yunhwan = Developer(
 ```
 
 - 🔭 &nbsp;Deep in the **JVM ecosystem** — Spring Boot, Ktor, and Netflix DGS (GraphQL)
-- 🌱 &nbsp;Exploring **distributed systems** through Trino, Elasticsearch & Valkey internals
+- 🌱 &nbsp;Exploring **distributed systems** through Valkey & Gravitino internals
 - 🤖 &nbsp;Building **AI developer tooling** — MCP servers, agent kits, and Claude Code studies
 - 💬 &nbsp;Ask me about **backend architecture, open-source contribution, or the JVM**
 - ⚡ &nbsp;Fun fact: I learn frameworks by **forking and reading their source code**
@@ -90,11 +90,8 @@ val yunhwan = Developer(
 | Project | Domain | Stack |
 | :--- | :--- | :--- |
 | [![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)](https://github.com/keycloak/keycloak) | Identity & Access Management | Java |
-| [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://github.com/elastic/elasticsearch) | Search & Analytics Engine | Java |
-| [![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white)](https://github.com/trinodb/trino) | Distributed SQL Query Engine | Java |
 | [![Apache Gravitino](https://img.shields.io/badge/Apache_Gravitino-D22128?style=flat-square&logo=apache&logoColor=white)](https://github.com/apache/gravitino) | Open Data Catalog | Java |
 | [![DSpace](https://img.shields.io/badge/DSpace-EE6C4D?style=flat-square&logo=dspace&logoColor=white)](https://github.com/DSpace/DSpace) | Institutional Repository | Java |
-| [![Hibernate Reactive](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)](https://github.com/hibernate/hibernate-reactive) | Reactive ORM | Java |
 | [![Valkey](https://img.shields.io/badge/Valkey-FF1C1C?style=flat-square&logo=valkey&logoColor=white)](https://github.com/valkey-io/valkey-glide) | In-Memory Data Store Client | Java/Rust |
 | [![Checkstyle](https://img.shields.io/badge/Checkstyle-4B32C3?style=flat-square&logo=checkstyle&logoColor=white)](https://github.com/checkstyle/checkstyle) | Static Code Analysis | Java |
 
