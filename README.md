@@ -1,10 +1,12 @@
 ## Yunhwan
 
-Backend engineer. 오픈소스에 관심이 많습니다.
+Backend engineer based in Seoul, 31.
 
-대규모 프로젝트의 소스를 읽고, 버그를 찾고, PR을 보냅니다.
+Currently working as a backend developer, exploring how far AI can be pushed as an engineering tool. Taking a program focused on validating AI workflows through open source.
 
-[yunhwane.github.io](https://yunhwane.github.io)
+Interested in open source — I read the source of large projects, find the bugs, and send the PRs.
+
+[yunhwane.github.io](https://yunhwane.github.io) · [wjsdbsghks96@naver.com](mailto:wjsdbsghks96@naver.com)
 
 ### Contributions
 
