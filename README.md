@@ -1,142 +1,43 @@
 <!-- ====================== HEADER BANNER ====================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Yunhwan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Open%20Source%20Contributor&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Yunhwan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Open%20Source%20Contributor&descAlignY=58&descSize=20" alt="header" />
 
-<!-- ====================== TYPING ANIMATION ====================== -->
-<a href="https://github.com/yunhwane">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=620&lines=Backend+Engineer+who+loves+the+JVM+%E2%98%95;Java+%7C+Kotlin+%7C+Spring+%7C+TypeScript;Contributing+to+Keycloak%2C+Gravitino%2C+Valkey;Building+distributed+systems+%26+AI+tooling" alt="Typing SVG" />
-</a>
+<h3>오픈소스에 관심이 많은 개발자입니다 🌍</h3>
 
-<!-- ====================== STATUS BADGES ====================== -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=yunhwane&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="profile views" />
-  <a href="https://github.com/yunhwane?tab=followers">
-    <img src="https://img.shields.io/github/followers/yunhwane?label=Followers&style=for-the-badge&color=6366F1&logo=github" alt="followers" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Open%20Source-EC4899?style=for-the-badge" alt="focus" />
-</p>
+<p><i>대규모 오픈소스 프로젝트의 소스를 읽고, 버그를 고치고, PR을 보냅니다.</i><br/>
+<i>I learn engineering by reading the source, fixing the bug, and sending the PR.</i></p>
 
 </div>
 
 ---
 
-<!-- ====================== ABOUT ME ====================== -->
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<!-- ====================== MERGED CONTRIBUTIONS ====================== -->
+### ✅ Merged Contributions
 
-```kotlin
-val yunhwan = Developer(
-    role        = "Backend Engineer",
-    languages   = listOf("Java", "Kotlin", "TypeScript"),
-    focus       = listOf("Distributed Systems", "Open Source", "Developer Tooling"),
-    currentlyOn = "Apache Gravitino · Keycloak · AI agent tooling",
-    motto       = "Read the source, fix the bug, send the PR."
-)
-```
-
-- 🔭 &nbsp;Deep in the **JVM ecosystem** — Spring Boot, Ktor, and Netflix DGS (GraphQL)
-- 🌱 &nbsp;Exploring **distributed systems** through Valkey & Gravitino internals
-- 🤖 &nbsp;Building **AI developer tooling** — MCP servers, agent kits, and Claude Code studies
-- 💬 &nbsp;Ask me about **backend architecture, open-source contribution, or the JVM**
-- ⚡ &nbsp;Fun fact: I learn frameworks by **forking and reading their source code**
-
----
-
-<!-- ====================== TECH STACK ====================== -->
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend & Frameworks**
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Data & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-</div>
-
----
-
-<!-- ====================== OPEN SOURCE ====================== -->
-### 🌍 Open Source Contributions
-
-> I learn the hard parts of engineering by diving into the source of large-scale projects.
-
-<div align="center">
-
-| Project | Domain | Stack |
+| Project | Contribution | PR |
 | :--- | :--- | :--- |
-| [![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)](https://github.com/keycloak/keycloak) | Identity & Access Management | Java |
-| [![Apache Gravitino](https://img.shields.io/badge/Apache_Gravitino-D22128?style=flat-square&logo=apache&logoColor=white)](https://github.com/apache/gravitino) | Open Data Catalog | Java |
-| [![DSpace](https://img.shields.io/badge/DSpace-EE6C4D?style=flat-square&logo=dspace&logoColor=white)](https://github.com/DSpace/DSpace) | Institutional Repository | Java |
-| [![Valkey](https://img.shields.io/badge/Valkey-FF1C1C?style=flat-square&logo=valkey&logoColor=white)](https://github.com/valkey-io/valkey-glide) | In-Memory Data Store Client | Java/Rust |
-| [![Checkstyle](https://img.shields.io/badge/Checkstyle-4B32C3?style=flat-square&logo=checkstyle&logoColor=white)](https://github.com/checkstyle/checkstyle) | Static Code Analysis | Java |
-
-</div>
-
----
-
-<!-- ====================== GITHUB STATS ====================== -->
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yunhwane&theme=tokyonight" alt="profile summary" />
-
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yunhwane&theme=tokyonight" alt="stats" />
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yunhwane&theme=tokyonight" alt="repos per language" />
-
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yunhwane&theme=tokyonight" alt="most commit language" />
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yunhwane&theme=tokyonight&utcOffset=9" alt="productive time" />
-
-<br/>
-
-<img width="85%" src="https://streak-stats.demolab.com?user=yunhwane&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" alt="streak" />
-
-</div>
+| [![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)](https://github.com/keycloak/keycloak) | Fix `NumberFormatException` for empty/invalid OIDC attribute values | [#47684](https://github.com/keycloak/keycloak/pull/47684) |
+| [![Apache Gravitino](https://img.shields.io/badge/Apache_Gravitino-D22128?style=flat-square&logo=apache&logoColor=white)](https://github.com/apache/gravitino) | Move model version request validation inside try block | [#10663](https://github.com/apache/gravitino/pull/10663) |
+| [![Valkey GLIDE](https://img.shields.io/badge/Valkey_GLIDE-FF1C1C?style=flat-square&logo=valkey&logoColor=white)](https://github.com/valkey-io/valkey-glide) | Add Checkstyle to the Java lint pipeline | [#5687](https://github.com/valkey-io/valkey-glide/pull/5687) |
+| [![DSpace](https://img.shields.io/badge/DSpace-EE6C4D?style=flat-square&logoColor=white)](https://github.com/DSpace/DSpace) | Fix empty Javadoc tags in `dspace-api` (batch 2) | [#12255](https://github.com/DSpace/DSpace/pull/12255) |
+| [![DSpace](https://img.shields.io/badge/DSpace-EE6C4D?style=flat-square&logoColor=white)](https://github.com/DSpace/DSpace) | Fix empty Javadoc tags in `dspace-api` (batch 1) | [#12248](https://github.com/DSpace/DSpace/pull/12248) |
+| [![Checkstyle](https://img.shields.io/badge/Checkstyle-4B32C3?style=flat-square&logoColor=white)](https://github.com/checkstyle/checkstyle) | Update default properties for `MissingJavadocTypeCheck` | [#19577](https://github.com/checkstyle/checkstyle/pull/19577) |
+| [![Checkstyle](https://img.shields.io/badge/Checkstyle-4B32C3?style=flat-square&logoColor=white)](https://github.com/checkstyle/checkstyle) | Update default properties for `JavadocContentLocationCheck` | [#19576](https://github.com/checkstyle/checkstyle/pull/19576) |
 
 ---
 
-<!-- ====================== ACTIVITY GRAPH ====================== -->
-### 📈 Contribution Graph
+<!-- ====================== IN REVIEW ====================== -->
+### 🔍 In Review
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yunhwane&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=ffffff&area=true" alt="activity graph" />
-
-<!-- Snake animation (generated by GitHub Action -> output branch) -->
-<img width="100%" src="https://raw.githubusercontent.com/yunhwane/yunhwane/output/github-snake-dark.svg" alt="snake animation" />
-
-</div>
+| Project | Contribution | PR |
+| :--- | :--- | :--- |
+| [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://github.com/elastic/elasticsearch) | Improve error messages for search request parse failures | [#145405](https://github.com/elastic/elasticsearch/pull/145405) |
+| [![Hibernate Reactive](https://img.shields.io/badge/Hibernate_Reactive-59666C?style=flat-square&logo=hibernate&logoColor=white)](https://github.com/hibernate/hibernate-reactive) | Test session-level batch/subselect fetching API (Hibernate ORM 6.3) | [#3527](https://github.com/hibernate/hibernate-reactive/pull/3527) |
 
 ---
 
 <!-- ====================== CONNECT ====================== -->
-### 🤝 Connect With Me
-
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/Dev_Blog-000000?style=for-the-badge&logo=github&logoColor=white)](https://yunhwane.github.io)
