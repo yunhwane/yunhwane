@@ -1,12 +1,10 @@
 ## Yunhwan
 
-Backend engineer based in Seoul, 31.
-
 Currently working as a backend developer, exploring how far AI can be pushed as an engineering tool. Taking a program focused on validating AI workflows through open source.
 
 Interested in open source — I read the source of large projects, find the bugs, and send the PRs.
 
-[yunhwane.github.io](https://yunhwane.github.io) · [wjsdbsghks96@naver.com](mailto:wjsdbsghks96@naver.com)
+[yunhwane.github.io](https://yunhwane.github.io)
 
 ### Contributions
 
